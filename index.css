@@ -1,0 +1,129 @@
+body{
+    border:1px solid black;
+}
+.title{
+    text-align: left;
+    border:1px solid black;
+    background: url(https://cutewallpaper.org/21/jewelry-wallpaper-background/HDQ-Cover-Jewellery-Amazing-Jewellery-Wallpapers.jpg);
+    opacity:0.9;
+}
+.vet{
+    text-align:center;
+    font-size: 2.4em;;
+    color:wheat;
+    line-height: 2em;
+}
+.adress{
+    font-size: 1.3em;
+    margin-left:2em;
+    color:white;
+}
+#b1{
+    background-color: green;
+    opacity:0.9;
+    color:black;
+    margin-left:3.7em;
+    border-radius: 15%;
+}
+#b2{
+    margin-left:3.7em;
+    color:blue;
+    background-color: white;
+    height:40%;
+}
+
+
+.main{
+    background-color: lightgray;
+    border:1px solid black;
+}
+.product{
+    position: relative;
+    display:inline-grid;
+    grid-template-columns: auto auto auto auto ;
+    
+    margin:2em;
+    
+    text-align: center;
+    font-size: 1em;
+    
+}
+img{
+    width:250px;
+    height:300px;
+    padding:2em;
+    border:1px solid black;
+    margin:1.2em;
+    background-color: whitesmoke;
+    
+    
+}
+
+.group{
+    display:inline-grid;
+    grid-template-columns:auto auto auto;
+  font-size: 1.5em;
+  border-right: orangered;
+  border:1px solid black;
+  border-bottom: 1px solid black;;
+  float:right;
+ }
+.grid{
+    
+    text-align:left;
+    color:orangered;
+    background-color: white;
+}
+.black{
+    color:black;
+}
+.text{
+    text-align: center;
+    
+    margin-top: 9em;
+}
+s{
+    color:red;
+}
+.login{
+    font-size: 1.3em;
+    float:right;
+    margin-right: 2.4em;
+    margin-top: 2em;
+
+}
+#button{
+     width:5.9em;
+     height:1.3em;
+     border:1px solid black;
+     font-size:1em;
+     color:black;
+     background-color:orangered;
+     opacity:0.9;
+     
+     float:start;
+}
+#button:hover{
+    transform:scale(1.03);
+}
+#cart{
+    width:5.9em;
+     height:1.3em;
+     border:1px solid black;
+     font-size:1em;
+     color:black;
+     background-color:orangered;
+     opacity:0.9;
+     margin:0.7em;
+     float:start;
+
+}
+#cart:hover{
+    transform:scale(1.03);
+}
+.contact{
+    text-align: left;
+    
+    margin-right:2.4em;
+    
+}
